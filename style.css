@@ -41,6 +41,10 @@ body {
   margin-bottom: 30px;
 }
 
+.slide-raw {
+  flex-direction: unset;
+}
+
 .list-container {
   display: flex;
 }
